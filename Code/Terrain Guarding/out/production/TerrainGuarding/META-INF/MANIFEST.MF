@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: de.TerrainGuarding.runExperiments
+Class-Path: gurobi.jar sipura-23.02.1-Java.jar
+

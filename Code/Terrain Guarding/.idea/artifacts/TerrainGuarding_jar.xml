@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="TerrainGuarding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TerrainGuarding_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TerrainGuarding.jar">
+        <element id="module-output" name="TerrainGuarding" />
+      </element>
+      <element id="library" level="project" name="gurobi" />
+      <element id="library" level="project" name="sipura-23.02.1-Java" />
+    </root>
+  </artifact>
+</component>
